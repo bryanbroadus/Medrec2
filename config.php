@@ -1,0 +1,1 @@
+<?php $config["database"] = "medrec"; $config["host"]= "localhost";$config["username"]= "root"; $config["password"]= "";?>
